@@ -1,2 +1,2 @@
-# lineregression
+# 练手
 机器学习相关代码
